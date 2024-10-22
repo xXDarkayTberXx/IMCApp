@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="tamanyo">120 cm</string>
+    <string name="edad">Edad</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">Calcular</string>
+    <string name="re_calcular">Re-Calcular</string>
+    <string name="turesultado">Tu resultado</string>
+    <string name="Normal">Normal</string>
+    <string name="Infrapeso">Infrapeso</string>
+    <string name="Sobrepeso">Sobrepeso</string>
+    <string name="Obesidad">Obesidad</string>
+    <string name="ImcCalulado">0.00</string>
+    <string name="pesoNum">0</string>
+    <string name="edadNum">0</string>
+    <string name="InfrapesoExplicado">Estás por debajo de lo óptimo para tu peso y altura</string>
+    <string name="NormalExplicado">Estás en el valor óptimo para tu peso y altura</string>
+    <string name="SobrepesoExplicado">Estás por encima de lo óptimo para tu peso y altura</string>
+    <string name="ObesidadExplicado">Estás MUY por encima de lo óptimo para tu peso y altura (Considera cambiar cuanto antes)</string>
+</resources>
