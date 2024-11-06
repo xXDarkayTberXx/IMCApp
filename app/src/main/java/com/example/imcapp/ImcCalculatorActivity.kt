@@ -10,6 +10,7 @@ import androidx.appcompat.widget.AppCompatButton
 import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
 import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.google.android.material.slider.RangeSlider
 import com.google.android.material.slider.Slider
 import java.text.DecimalFormat
 
@@ -18,7 +19,7 @@ class ImcCalculatorActivity : AppCompatActivity() {
     private lateinit var viewMale: CardView
     private lateinit var viewFemale: CardView
     private lateinit var tvHeight: TextView
-    private lateinit var rsHeight: Slider
+    private lateinit var rsHeight: RangeSlider
     private lateinit var btnSubtractWeight: FloatingActionButton
     private lateinit var btnAddWeight: FloatingActionButton
     private lateinit var btnSubtractAge: FloatingActionButton

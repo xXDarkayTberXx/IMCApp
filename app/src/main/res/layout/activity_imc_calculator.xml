@@ -113,13 +113,13 @@
                 android:textSize="38sp"
                 android:textStyle="bold" />
 
-            <com.google.android.material.slider.Slider
+            <com.google.android.material.slider.RangeSlider
                 android:id="@+id/rsHeight"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:contentDescription="height"
                 android:stepSize="1"
-                android:value="120"
+                android:valueFrom="120"
                 android:valueTo="200" />
 
         </LinearLayout>
